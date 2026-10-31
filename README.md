@@ -3,6 +3,11 @@
 # 🌴 GTA VICE CITY & III ONLINE: CO-OP STORYLINE
 
 ### ★ FULL MISSION SYNCHRONIZATION • 127-PLAYER MASSIVE OPEN WORLD ★
+<br/>
+
+<img width="1672" height="941" alt="nc_homelander png (38)" src="https://github.com/user-attachments/assets/bc42842a-abba-4467-8dd7-09083520949f" />
+
+<br/><br/>
 
 [![Server Status](https://img.shields.io/badge/SERVER_STATUS-LIVE_ONLINE-10b981?style=for-the-badge&logo=serverfault&logoColor=white)](https://vc-online.xo.je/)
 [![GTAC Client](https://img.shields.io/badge/FRAMEWORK-GTA_CONNECTED-ff007f?style=for-the-badge&logo=gamepad&logoColor=white)](https://vc-online.xo.je/)
