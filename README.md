@@ -1,56 +1,100 @@
-<img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/9611591b-8e29-41a7-a72a-91d924c0632c" />
+<div align="center">
 
-# GTA Vice City & III Online: The Co-op Storyline Project
+# 🌴 GTA VICE CITY & III ONLINE: CO-OP STORYLINE
 
-This project brings a massive multiplayer cooperative experience to Grand Theft Auto: Vice City and Grand Theft Auto III. Built to run on the GTAC (Grand Theft Auto Connected) framework, these servers allow players to experience the original single-player storylines in a persistent, high-capacity online environment.
+### ★ FULL MISSION SYNCHRONIZATION • 127-PLAYER MASSIVE OPEN WORLD ★
 
-## The Experience
+[![Server Status](https://img.shields.io/badge/SERVER_STATUS-LIVE_ONLINE-10b981?style=for-the-badge&logo=serverfault&logoColor=white)](https://vc-online.xo.je/)
+[![GTAC Client](https://img.shields.io/badge/FRAMEWORK-GTA_CONNECTED-ff007f?style=for-the-badge&logo=gamepad&logoColor=white)](https://vc-online.xo.je/)
+[![Discord](https://img.shields.io/badge/COMMUNITY-DISCORD-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fq5Cu8dVyp)
+[![Max Capacity](https://img.shields.io/badge/SLOTS-127_PLAYERS-00d2ff?style=for-the-badge&logo=speedtest&logoColor=black)](https://discord.gg/Fq5Cu8dVyp)
 
-The core goal of this project is to bridge the gap between solo play and multiplayer chaos. Instead of simple deathmatch, these servers are scripted to support the original game missions, allowing you and your friends to progress through the narrative of Tommy Vercetti or Claude Speed together.
+<br/>
 
-### Multiplayer Storyline
-Experience the classic 3D-era narratives with full mission synchronization. You are no longer restricted to playing these stories alone; you can tackle heists, hits, and territory takeovers as a team.
+> **Experience the classic 3D-era Grand Theft Auto storylines together.**  
+> Built on the GTAC (Grand Theft Auto Connected) multiplayer framework, this project brings full cooperative mission synchronization to Tommy Vercetti's and Claude Speed's campaigns in persistent, 127-player open-world servers.
 
-### Massive Player Capacity
-The servers are optimized to host up to 127 players simultaneously. This transforms the game world from a lonely city into a populated metropolis where missions can be completed alongside a massive community of other players.
+</div>
 
-### Dynamic Environment
-While the missions remain the focus, the 127-player limit ensures that the streets of Vice City and Liberty City are always active, creating unique emergent gameplay moments between players outside of scripted objectives.
+---
 
-## Current Server Status
+## 🌟 Key Features
 
-The following servers are part of this network. Please check the status below before attempting to connect.
+* 👥 **Full Co-op Storyline Progression**: Tackle every story mission, heist, hit contract, and territory takeover cooperatively with friends rather than alone.
+* 🏙️ **Massive 127-Player Open World**: Explore Vice City and Liberty City alongside over a hundred real players simultaneously on the exact same server instance.
+* ⚡ **True Multiplayer Synchronization**: Synchronized mission triggers, cutscenes, traffic, peds, wanted levels, drive-bys, and emergent street encounters.
+* 🛡️ **Anti-Cheat & Clean Environment**: Built on GTAC’s modern client-server architecture with smooth netcode and custom server-side scripts.
+---
 
-### Online
-* **Vice City Online With Missions #2**
-  * Location: Lithuania
-  * IP: 91.103.255.38:10051
-  * Feature: Full Co-op Storyline Support
+## 🕹️ How to Connect (Quick Start)
 
-### Offline / Maintenance
-* **Vice City Online With Missions #1**
-  * Location: France
-  * Status: Currently Down
-* **Liberty City Online With Missions**
-  * Location: France
-  * Status: Currently Down
+To join the live servers and play missions with other players, follow these steps:
 
-## Requirements and Connection
+### 1. Prerequisites
+* A clean, unmodified PC installation of **Grand Theft Auto: Vice City** (v1.0 recommended) or **Grand Theft Auto III**.
+* The **[GTA Connected (GTAC)](https://gtaconnected.com/)** Multiplayer Client installed.
 
-To participate in the co-op storyline experience, you will need:
+### 2. Direct Connect
+1. Launch the **GTA Connected** client on your PC.
+2. Select your game (`Grand Theft Auto: Vice City` or `Grand Theft Auto III`).
+3. Set your player handle/nickname.
+4. Click **Quick Connect** or navigate to the **Favorites** tab.
+5. Enter the active server IP
+6. Click **Connect** and step directly into the streets of Vice City!
 
-1. A clean installation of Grand Theft Auto: Vice City or Grand Theft Auto III.
-2. The GTAC Multiplayer Client software.
-3. To join, copy the IP of the active server and enter it into the GTAC client browser.
+---
 
-## Community
+## 🏙️ Supported Games & Campaign Co-op
 
-For technical support, mission walkthroughs, or to find a crew for storyline progression, join the official community hub.
+<div align="center">
 
-Discord: https://discord.gg/Fq5Cu8dVyp
+| Title | Campaign Protagonist | Co-op Mission Features |
+| :--- | :---: | :--- |
+| **Grand Theft Auto: Vice City** | **Tommy Vercetti** | Asset acquisitions (Malibu Club, Print Works, Sun Shine Autos), Ricardo Diaz raids, street gang wars, and mansion defense. |
+| **Grand Theft Auto III** | **Claude Speed** | Portland mafia hits, Staunton Island Yakuza operations, Shoreside Vale Cartel takedowns, and tank heists. |
 
-## Credits
+</div>
 
-Project Development: VM10K
-Platform: Running on GTAC (Grand Theft Auto Connected)
-Original Game Assets: Rockstar Games
+---
+
+## 🏗️ Technical Highlights & Architecture
+
+* **Multiplayer Framework**: Scripted on GTAC (Grand Theft Auto Connected), enabling reliable synch for scripting, actor behaviors, and network state trees.
+* **Mission State Manager**: Custom server scripts manage individual and group quest progression, preventing conflicting mission states across 127 simultaneous connections.
+* **Low-Latency Routing**: Fast packet handling ensuring vehicles, hit registration, weapons, and AI traffic synchronize smoothly across worldwide connections.
+
+---
+
+## 💬 Community & Support
+
+Join the official Discord community to find a crew for co-op campaigns, report bugs, participate in community events, and receive live server status notifications:
+
+<div align="center">
+
+[![Join Discord Community](https://img.shields.io/badge/JOIN_THE_CREW-DISCORD_COMMUNITY-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fq5Cu8dVyp)
+
+**Discord Invite Link**: [https://discord.gg/Fq5Cu8dVyp](https://discord.gg/Fq5Cu8dVyp)
+
+</div>
+
+---
+
+## 💛 Support & Server Hosting
+
+If you enjoy the project and want to help fund high-capacity dedicated server hosting and script development:
+
+* **Supported EVM Chains**: Base • Ethereum • BSC • Polygon • Arbitrum • Optimism
+* **Wallet Address**:
+  ```text
+  0xF8a70600C38F464431E29FC5ca00E32dC18334A7
+  ```
+
+---
+
+## 📌 Credits & Notice
+
+* **Project & Mission Scripting**: VM10K
+* **Multiplayer Platform**: [GTA Connected](https://gtaconnected.com/) (GTAC Development Team)
+* **Original Game Assets & Intellectual Property**: **Rockstar Games / Take-Two Interactive**
+
+*This is a non-commercial community multiplayer project created for historical preservation and multiplayer enjoyment. All original trademarks and assets belong to their respective copyright holders.*
