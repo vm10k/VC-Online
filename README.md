@@ -65,6 +65,34 @@ To join the live servers and play missions with other players, follow these step
 
 ---
 
+## 🎮 PSP Multiplayer: PPSSPP Ad-Hoc Server
+
+In addition to our PC GTAC servers, we host a dedicated **PPSSPP Ad-Hoc Server** allowing players on **PC, Android, iOS, and Steam Deck** to play the original multiplayer modes of the Stories series together online!
+
+<div align="center">
+
+| Title | Platform | Supported Modes | Netplay Method |
+| :--- | :---: | :--- | :---: |
+| **GTA: Vice City Stories** | `PSP / PPSSPP` | Vice City Survivor, Street Rage, Empire Takedown, Tanks for the Memories | Ad-Hoc Server (PRO Online) |
+| **GTA: Liberty City Stories** | `PSP / PPSSPP` | Liberty City Survivor, Protection Racket, Hit List, Wedding List, Street Rage | Ad-Hoc Server (PRO Online) |
+
+</div>
+
+### 🕹️ How to Connect via PPSSPP Emulator
+
+You can play across platforms (PC vs Android vs iOS) without needing a real PSP console:
+
+1. Open **PPSSPP** and go to **Settings** → **Networking**.
+2. Enable **Networking/WLAN** (check the box).
+3. Enable **built-in PRO ad hoc server** (or set it to active).
+4. Select **Change proAdhocServer IP address** and enter our server IP
+
+5. *(Optional)* Set **Change MAC address** if prompted, and ensure port offset is set to default (`0`).
+6. Launch **Liberty City Stories** or **Vice City Stories**.
+7. In the in-game menu, navigate to **Multiplayer** → choose a lobby or host a game!
+
+> 💡 **Tip:** To find other players for PSP multiplayer sessions or get troubleshooting help with PPSSPP network settings, join our [Discord Server](https://discord.gg/Fq5Cu8dVyp).
+
 ## 💬 Community & Support
 
 Join the official Discord community to find a crew for co-op campaigns, report bugs, participate in community events, and receive live server status notifications:
@@ -78,6 +106,13 @@ Join the official Discord community to find a crew for co-op campaigns, report b
 </div>
 
 ---
+
+## Screenshots
+
+<img width="1030" height="643" alt="image" src="https://github.com/user-attachments/assets/a3413e72-6d82-421b-b109-bfb0f3da4075" />
+
+<img width="1030" height="643" alt="image" src="https://github.com/user-attachments/assets/f4184cdb-f220-4f28-aeaa-f5ff63658c2d" />
+
 
 ## 💛 Support & Server Hosting
 
